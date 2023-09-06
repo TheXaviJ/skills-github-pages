@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+XR-Log: Welcome to my blog!
 ---
 
